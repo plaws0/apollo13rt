@@ -7970,7 +7970,7 @@ TELMU, let me hear the COMM. Okay? Can we hear it? Do you need something?
 We've got to power down, here, pretty quick.
 
 [59 43 12 - 59 43 13] FLIGHT
-Okay. TELMU, go.
+Okay. Tell me about it.
 
 [59 43 16 - 59 43 30] TELMU
 We ought to - recommend turning the power off - POWER AMPL off, going to LOW BIT RATE, and getting his {AC} off, and probably bringing the AGS up on standby.
