@@ -7457,7 +7457,7 @@ CAPCOM. CAPCOM, FLIGHT.
 Go, FLIGHT.
 
 [59 21 17 - 59 21 21] FLIGHT
-We got Program 00 but he needs to go to DATA first to get the load in.
+We got Program 00 but he needs to go to DATA for us to get the load in.
 
 [59 21 29 - 59 21 30] FLIGHT
 Okay. We're loading the REFSMMAT -
