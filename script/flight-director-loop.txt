@@ -8658,6 +8658,7 @@ I'm afraid to do anything to the COMM right now, until we have this discussion w
 
 [60 07 00] TELMU
 Right.
+-> I don't think this is TELMU (sounds more like FLIGHT) and I don't think he says "right".
 
 [60 07 20 - 60 07 21] FLIGHT
 Can - TELMU, FLIGHT.
