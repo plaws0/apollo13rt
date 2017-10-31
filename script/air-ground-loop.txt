@@ -2378,7 +2378,7 @@ Hello there, Aquarius. Loud and clear. How do you read me?
 There's an awful lot of background -
 
 [59 59 18 - 59 59 23] LMP
-Okay, we've got a lot of background static, Jack. You're down in the mud. You having a ground problem?
+Okay, we've got a lot of background static, Jack. You're down in the mud. You having ... uh ... ground problems?
 
 [59 59 25 - 59 59 38] CAPCOM
 What we tried to do was to get the IU frequency shifted off a little bit so that we'd have less interference. I think it'll come up - what we want you to do is turn on your descent oxygen and turn off your ascent oxygen. Over.
