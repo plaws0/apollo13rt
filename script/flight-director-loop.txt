@@ -11782,7 +11782,7 @@ I'm not turning it down now. Look - - - go ahead.
 Go ahead.
 
 [61 34 11 - 61 34 20] FLIGHT
-The current situation is - is that we're checking about the PTC. We had - do we have an AGS procedure for setting up a PTC in AGS, now? CONTROL? That people think might work?
+The current situation is - is that we're checking about the PTC. We had - do we have an AGS procedure for setting up a PTC now? CONTROL? That people think might work?
 
 [61 34 23] FLIGHT
 CONTROL, FLIGHT.
