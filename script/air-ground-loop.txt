@@ -3145,7 +3145,7 @@ Okay, Jack. I've got another question on page 18. At 1 minute, I concur with MAS
 
 [61 24 26 - 61 24 27] LMP
 We sure don't want any staging now.
-> This would drop the descent stage of the LM, which they need for getting home, as in addition to the better engine it contained consumables.
+> This would drop the descent stage of the LM, which they need for getting home.  In addition to the better engine it contained consumables.
 
 [61 24 37 - 61 24 40] CAPCOM
 Aquarius, delete the ABORT STAGE circuit breaker CLOSE. Leave it OPEN.
