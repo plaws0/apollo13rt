@@ -11941,7 +11941,7 @@ Let's start with the DECA ones, huh?
 Okay.
 
 [61 37 39 - 61 37 49] FLIGHT
-CAPCOM, while we're going through this subject, two items for power conversation would be the DECA GIMBAL and POWER circuit breakers on panel - 16? 11.
+CAPCOM, while we're going through this subject, two items for power conservation would be the DECA GIMBAL and POWER circuit breakers on panel - 16? 11.
 
 [61 37 50 - 61 37 57] CONTROL
 11 for the DECA GIMBAL and DECA POWER. ATCA is on panel 16.
